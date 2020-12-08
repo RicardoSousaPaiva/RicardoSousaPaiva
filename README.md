@@ -1,7 +1,7 @@
 
 
 :microscope: _Mathematikós_ :telescope: <br>
-:arrow_right: inclined to learn :arrow_left: and loves to apply his knowledge to discover new things and solve problems.
+:arrow_right: *inclined to learn* :arrow_left: and loves to apply his knowledge to discover new things and solve problems.
 
 <!--
 **RicardoSousaPaiva/RicardoSousaPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
