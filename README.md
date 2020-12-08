@@ -1,6 +1,6 @@
 
 
-:microscope: _Mathematikós_ :telescope: 
+:microscope: _Mathematikós_ :telescope: </h>
 :arrow_right: inclined to learn :arrow_left: and loves to apply his knowledge to discover new things and solve problems.
 
 <!--
